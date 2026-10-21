@@ -26,6 +26,9 @@ export default function Navbar() {
     // { label: 'Execution', href: '#' },
     // { label: 'Footprint', href: '#' },
     // { label: 'Media', href: '#' },
+    // { label: 'Execution', href: '#' },
+    // { label: 'Footprint', href: '#' },
+    // { label: 'Media', href: '#' },
   ];
 
   // Helper: is this link active?
