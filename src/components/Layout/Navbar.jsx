@@ -19,11 +19,13 @@ export default function Navbar() {
     { label: 'What We Do', href: '/what-we-do' },
     { label: 'How We Do It', href: '/how-we-do-it' },
     { label: 'Our Businesses', href: '/hub-centre-matrix'},
-     { label: 'Pipeline', href: '/pipeline' },
-      { label: 'Careers', href: '/careers' },
-    { label: 'Execution', href: '#' },
-    { label: 'Footprint', href: '#' },
-    { label: 'Media', href: '#' },
+    //  { label: 'Pipeline', href: '/pipeline' },
+    //   { label: 'Careers', href: '/careers' },
+       { label: 'Pipeline', href: '#' },
+      { label: 'Careers', href: '#' },
+    // { label: 'Execution', href: '#' },
+    // { label: 'Footprint', href: '#' },
+    // { label: 'Media', href: '#' },
   ];
 
   // Helper: is this link active?
@@ -92,7 +94,8 @@ export default function Navbar() {
 
         {/* DESKTOP: CTA Button */}
         <Link
-          href="/contact"
+          // href="/contact"
+          href="#"
           className="hidden lg:flex bg-amber-400 hover:bg-amber-500 text-black font-semibold text-[10px] xl:text-[11px] 2xl:text-xs px-2.5 xl:px-3 2xl:px-4 py-1.5 xl:py-2 rounded items-center gap-1 transition-colors whitespace-nowrap flex-shrink-0"
         >
           Inquire / Contact
@@ -139,7 +142,8 @@ export default function Navbar() {
 
           {/* Mobile CTA */}
           <Link
-            href="/contact"
+            // href="/contact"
+             href="#"
             onClick={closeMenu}
             className="mt-2 bg-amber-400 hover:bg-amber-500 text-black font-semibold text-sm px-5 py-3 rounded flex items-center justify-center gap-2 transition-colors whitespace-nowrap"
           >

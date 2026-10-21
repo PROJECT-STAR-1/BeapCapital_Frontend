@@ -67,7 +67,8 @@ export default function BioscienceHub() {
 
         {/* CTA */}
         <Link
-          href="/contact"
+          // href="/contact"
+          href="#"
           className="bg-amber-400 hover:bg-amber-500 text-black font-bold text-[11px] tracking-wider uppercase px-5 py-3 rounded-md flex items-center gap-2 transition-colors self-start whitespace-nowrap"
         >
           <FaEnvelope className="text-xs" />

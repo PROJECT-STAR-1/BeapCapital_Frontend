@@ -68,7 +68,8 @@ export default function DirectDeployment() {
 
           {/* CTA */}
           <Link
-            href="/contact"
+            // href="/contact"
+            href="#"
             className="bg-amber-400 hover:bg-amber-500 text-black font-bold text-[11px] tracking-wider uppercase px-6 py-3 rounded-md flex items-center gap-3 transition-colors"
           >
             <FaEnvelope className="text-xs" />

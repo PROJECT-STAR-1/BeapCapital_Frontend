@@ -22,7 +22,7 @@ const categories = [
     description: 'Standardized, modular physical hardware skids (PaaS solar BESS, RO water skids, CEA vertical H-Frames) and proprietary software platforms (BEAPOne UBCS).',
     cta: 'Explore Products Portfolio',
     ctaColor: 'text-amber-400 hover:text-amber-300',
-    href: '/what-we-do/products',
+    href: '#',
   },
   {
     number: '02',
@@ -36,7 +36,7 @@ const categories = [
     description: 'Infrastructure development advisory, PPP transaction preparation, corporate restructuring, MEARL auditing, and managed utility operations (PaaS/GaaS/WaaS).',
     cta: 'Explore Advisory & Services',
     ctaColor: 'text-emerald-400 hover:text-emerald-300',
-    href: '/what-we-do/services',
+   href: '#'
   },
   {
     number: '03',
@@ -50,7 +50,7 @@ const categories = [
     description: 'Integrated circular bio-refineries, off-grid industrial microgrids, diaspora property trust syndications, and K-12 smart school networks.',
     cta: 'Explore Integrated Solutions',
     ctaColor: 'text-cyan-400 hover:text-cyan-300',
-    href: '/what-we-do/solutions',
+    href: '#'
   },
   {
     number: '04',
@@ -64,7 +64,7 @@ const categories = [
     description: 'SHA-256 telemetry tokenization, sub-4ms transient power suppression, automated 1.5-second Cloud-Locks, and 12-tier vertical CEA fertigation.',
     cta: 'Inspect Core Capabilities',
     ctaColor: 'text-indigo-400 hover:text-indigo-300',
-    href: '/what-we-do/capabilities',
+    href: '#'
   },
   {
     number: '05',
@@ -78,7 +78,7 @@ const categories = [
     description: 'Targeted interventions across Agriculture & Bio-Tech, Renewable Energy & Power, Real Estate & Urban Dev, Municipal Utilities, and EdTech.',
     cta: 'Explore Industry Sectors',
     ctaColor: 'text-amber-400 hover:text-amber-300',
-    href: '/what-we-do/industry-sectors',
+    href: '#'
   },
   {
     number: '06',
@@ -92,7 +92,7 @@ const categories = [
     description: 'Active concessions and pilots including the ARFAA Electricity Ring-Fence, Idodo Market City, CEA Ginger Pilot Nodes, and SISA Smart Campus.',
     cta: 'Inspect Active Projects',
     ctaColor: 'text-emerald-400 hover:text-emerald-300',
-    href: '/what-we-do/projects',
+    href: '#'
   },
 ];
 
